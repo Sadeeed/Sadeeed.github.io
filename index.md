@@ -1,6 +1,6 @@
 # Hello There
 
-Welcome to my website (or ack therof).
+Welcome to my website (or lack therof).
 Hopefully i'll make a legit one oneday.
 
 Enjoy this picture of Baby Yoda for now.
