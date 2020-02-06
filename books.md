@@ -7,7 +7,7 @@
 + [Solution](https://drive.google.com/uc?export=download&id=1tArt6h-eDk_ifdjsgvOh_ysiTPsQ4FIH)
 
 ## Electronic Devices & Circuits
-![EDC](/imgs/books/edc.png)
+![EDC](https://imgur.com/POp8mGl.png)
 
 + [Book](https://drive.google.com/uc?export=download&id=1TQZ-T7O1XZXzlg760g8sbIMWUTE64PFZ)
 + [Solution](https://drive.google.com/uc?export=download&id=1HD2TY1ZY-RD6ThO3emCecNRhUc49STdl)
@@ -19,7 +19,7 @@
 + [Solution](https://drive.google.com/uc?export=download&id=)
 
 ## Probability Methods In Engineering
-![PME](/imgs/books/pme.png)
+![PME](https://imgur.com/uPXriwK.png)
 
 + [Book](https://drive.google.com/uc?export=download&id=1XppDXKfMyQaHSn2uvJ4-STwG31R4K7ou)
 + [Solution](https://drive.google.com/uc?export=download&id=1L8aV7lWaQlfPblxzw806xZAjE-hDNWNU)
