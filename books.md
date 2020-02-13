@@ -13,10 +13,10 @@
 + [Solution](https://drive.google.com/uc?export=download&id=1HD2TY1ZY-RD6ThO3emCecNRhUc49STdl)
 
 ## Object Oriented Programming
-![OOP](/imgs/books/oop.png)
+![OOP](https://imgur.com/KV2cPw7.png)
 
-+ [Book](https://drive.google.com/uc?export=download&id=)
-+ [Solution](https://drive.google.com/uc?export=download&id=)
++ [Book](https://drive.google.com/uc?export=download&id=1EXe-FhxbKaKg4CtNjcx-w0zMeYSAZpl2)
++ [Solution](https://www.slader.com/textbook/9780133807806-java-how-to-program-early-objects-10th-edition/)
 
 ## Probability Methods In Engineering
 ![PME](https://imgur.com/uPXriwK.png)
