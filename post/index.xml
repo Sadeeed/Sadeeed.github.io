@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Home</title>
+    <title>Posts on Sadeed Waseem</title>
     <link>http://www.sadeedwaseem.me/post/</link>
-    <description>Recent content in Posts on Home</description>
+    <description>Recent content in Posts on Sadeed Waseem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 28 Jun 2020 23:51:23 +0500</lastBuildDate>
@@ -18,15 +18,6 @@
       
       <guid>http://www.sadeedwaseem.me/post/books/</guid>
       <description>Semester IV Signals and Systems  Book Solution  Electronic Devices &amp;amp; Circuits  Book Solution  Object Oriented Programming  Book Solution  Probability Methods In Engineering  Book Solution  </description>
-    </item>
-    
-    <item>
-      <title>Testpost</title>
-      <link>http://www.sadeedwaseem.me/post/testpost/</link>
-      <pubDate>Sun, 28 Jun 2020 22:34:56 +0500</pubDate>
-      
-      <guid>http://www.sadeedwaseem.me/post/testpost/</guid>
-      <description>Test  bling blong</description>
     </item>
     
   </channel>

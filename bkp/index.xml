@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sadeed Waseem</title>
+    <title>Home</title>
     <link>http://www.sadeedwaseem.me/</link>
-    <description>Recent content on Sadeed Waseem</description>
+    <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 28 Jun 2020 23:51:23 +0500</lastBuildDate>
@@ -22,19 +22,28 @@
     
     <item>
       <title>About</title>
-      <link>http://www.sadeedwaseem.me/page/about/</link>
+      <link>http://www.sadeedwaseem.me/about/</link>
       <pubDate>Sun, 28 Jun 2020 22:52:04 +0500</pubDate>
       
-      <guid>http://www.sadeedwaseem.me/page/about/</guid>
-      <description>About Me fbjdhjsfh</description>
+      <guid>http://www.sadeedwaseem.me/about/</guid>
+      <description>weird test 1</description>
+    </item>
+    
+    <item>
+      <title>Testpost</title>
+      <link>http://www.sadeedwaseem.me/post/testpost/</link>
+      <pubDate>Sun, 28 Jun 2020 22:34:56 +0500</pubDate>
+      
+      <guid>http://www.sadeedwaseem.me/post/testpost/</guid>
+      <description>Test  bling blong</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.sadeedwaseem.me/page/archives/</link>
+      <link>http://www.sadeedwaseem.me/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sadeedwaseem.me/page/archives/</guid>
+      <guid>http://www.sadeedwaseem.me/archives/</guid>
       <description></description>
     </item>
     
