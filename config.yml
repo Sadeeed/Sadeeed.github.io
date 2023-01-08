@@ -1,0 +1,69 @@
+theme: charlolamode
+title: soupDev
+Copyright: built with ♥ by sadeed | soupdev © 2023
+
+
+menu:
+    main:
+        - name: Contact
+          url: contact/
+          weight: 30
+        - name: Articles
+          url: articles/
+          weight: 20
+        - name: Projects
+          url: projects/
+          weight: 15
+
+
+params:
+  author: Sadeed
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  displayFullLangName: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+
+  profileMode:
+    enabled: true
+    title: Sadeed Waseem
+    description: |
+      I am a software developer and I love making things for the web.
+
+    imageUrl: "/images/profile.png"
+    imageTitle: profile image
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      # - name: Don't click me
+      #   url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  mainSections:
+    - articles
+
+  socialIcons:
+    # - name: buymeacoffee
+    #   url: "https://ko-fi.com/heycharlola"
+    - name: github
+      url: "https://github.com/Sadeeed"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/icesoup/"
+
+    # add more social icons. find more in svg.html file
+    # - name: youtube
+    #   url: yoururl
+    # - name: twitter
+    #   url: yoururl
+    # - name: facebook
+    #   url: yoururl
+
+  # change favicon in images folder (icon for web tab)
+  assets:
+    favicon: "/images/favicon.ico"
+    favicon16x16: "/images/favicon-16x16.png"
+    favicon32x32: "/images/favicon-32x32.png"
+    apple_touch_icon: "/images/apple-touch-icon.png"
+    safari_pinned_tab: "/images/apple-touch-icon.png"
