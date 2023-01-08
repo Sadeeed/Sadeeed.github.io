@@ -1,6 +1,7 @@
 theme: charlolamode
 title: soupDev
 Copyright: built with ♥ by sadeed | soupdev © 2023
+baseURL: https://sadeeed.github.io
 
 
 menu:
