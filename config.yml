@@ -9,8 +9,8 @@ menu:
         - name: Contact
           url: contact/
           weight: 30
-        - name: Articles
-          url: articles/
+        - name: Blog
+          url: blog/
           weight: 20
         - name: Projects
           url: projects/
@@ -68,3 +68,7 @@ params:
     favicon32x32: "/images/favicon-32x32.png"
     apple_touch_icon: "/images/apple-touch-icon.png"
     safari_pinned_tab: "/images/apple-touch-icon.png"
+
+ignoreFiles:
+ - "/content/projects/math-brain-trainer.md"
+#  - "content/articles/article.md"
