@@ -53,6 +53,10 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/icesoup/"
 
+  shareButtons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/icesoup/"
+
     # add more social icons. find more in svg.html file
     # - name: youtube
     #   url: yoururl
