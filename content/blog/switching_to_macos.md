@@ -47,6 +47,27 @@ nvm can be installed using their install script:
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 ```
 
+#### Powerlevel10k
+[![p10k](/images/posts/switching_to_macos/powerlevel10k.png)](https://github.com/romkatv/powerlevel10k)
+Manjaro comes with powerlevel10k pre-installed and I have been using it for a while now. I really like the way it looks and the features it provides. So I decided to install it on my mac as well.
+
+Installation is pretty simple but we have to add it the our .zshrc file so it can load when we open a new terminal.
+```bash
+brew install romkatv/powerlevel10k/powerlevel10k
+echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc
+```
+Before we proceed i would recommend installing a [nerd font](https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k) otherwise you will see weird symbols in your terminal.
+Thats it! Now you can run `p10k configure` to configure powerlevel10k or you can restart your terminal.
+
+#### Alacritty
+[![alacritty](https://user-images.githubusercontent.com/8886672/103264352-5ab0d500-49a2-11eb-8961-02f7da66c855.png)](https://github.com/alacritty/alacritty)
+I dont really like the default terminal that comes with macOS so I decided to install [Alacritty](https://alacritty.org/). It is a terminal emulator with a lot of features and it is very fast. It is also very customizable and you can change the font, colors, etc. I use it with powerlevel10k and it looks great.
+
+It is one of those few things that I'd recommend installing from the [website](https://alacritty.org/) not because the homebrew version is bad but because the website has a link to the short and concise docs which are very helpful.
+Anyway, if you prefer you can install it using homebrew:
+```bash
+brew install alacritty
+```
 
 
 
