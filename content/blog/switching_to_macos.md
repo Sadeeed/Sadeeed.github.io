@@ -5,6 +5,8 @@ description: Lets make macOS feel a little more like my Linux environment
 topic: software development
 ---
 
+![header](/images/posts/switching_to_macos/header.png)
+
 ### Backstory
 I have been using linux for as long as I can remember so naturally I prefer to use it for development. However, my trusty thinkpad recently died (RIP 🪦) and since there was no replacement thinkpad available at work I was given a mac instead. I was a little hesitant at first but I decided to give it another try. I thought I would share some of the things I have done to make it feel more like my linux environment.
 
@@ -60,7 +62,7 @@ Before we proceed i would recommend installing a [nerd font](https://github.com/
 Thats it! Now you can run `p10k configure` to configure powerlevel10k or you can restart your terminal.
 
 
-### GUI Tools
+### Other Tools
 #### Alacritty
 [![alacritty](https://user-images.githubusercontent.com/8886672/103264352-5ab0d500-49a2-11eb-8961-02f7da66c855.png)](https://github.com/alacritty/alacritty)
 I dont really like the default terminal that comes with macOS so I decided to install [Alacritty](https://alacritty.org/). It is a terminal emulator with a lot of features and it is very fast. It is also very customizable and you can change the font, colors, etc. I use it with powerlevel10k and it looks great.
