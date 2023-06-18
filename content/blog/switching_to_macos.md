@@ -152,4 +152,4 @@ Heres a list of extensions that I use:
 
 That is all for now. I will keep updating this post as I add more things to my setup. If you have any suggestions or feedback feel free to reach out to me on [Discord](https://discord.com/users/280329281568112640).
 
-{{< figure src="/images/thankyou.png" title="" >}}
+<!-- {{< figure src="/images/thankyou.png" title="" >}} -->

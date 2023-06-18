@@ -1,4 +1,4 @@
 ---
 title: Blog
 ---
-This is a work in progress 😄
+Imagine maintaining a blog lol
